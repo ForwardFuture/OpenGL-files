@@ -1,6 +1,6 @@
 #include "camera.h"
 
-//NOTE: You must ensure x & y are not equal to 0
+//NOTE: You must ensure x & y are not zero
 static float CalcAngle(float x, float y, int quadrant) {
 	float Angle = 0.0f;
 	
