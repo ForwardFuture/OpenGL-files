@@ -13,3 +13,6 @@
 #include "stb_image.h"
 
 using namespace std;
+
+const unsigned int Width = 800;
+const unsigned int Height = 600;
